@@ -1,0 +1,15 @@
+### Introduction
+
+What is XIB ?
+XIB or XML Interface Builder are Interface Builder that contain the views, controls, layout, and connections to code that can be reused throughout the project.
+
+What's the difference of XIB and NIB ?
+XIBs are actually converted to NIBs (NeXTSTEP Interface Builder) during compile time because XIBs are easier for human to read but NIBs are easier for the computer to read.
+
+What's the difference of XIB and Storyboard ?
+XIB is a custom reusable Interface Builder whereas Storyboard are `full package` Interface Builder that contains many things such as ViewControllers, TableViews, Segues and etc.
+
+
+
+### Learning Sources
+- https://medium.com/@tjcarney89/whats-a-xib-and-why-would-i-ever-use-one-58d608cd5e9b
